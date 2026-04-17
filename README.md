@@ -13,3 +13,5 @@ player has a winning set, then the game results in a tie.
 
 **The full spec for this software is [tic-tac-toe-spec.md](docs/tic-tac-toe-spec.md) in the docs folder.**
 
+<img width="624" height="502" alt="Tic_Tac_Toe" src="https://github.com/user-attachments/assets/786d8ef6-2bd3-48da-9c74-bd548d55814d" />
+
